@@ -26,7 +26,7 @@ const count: React.FC = () => {
   //   return () => clearInterval(interval);
   // }, []);
 
-  console.log("Number of render");
+  console.log("exercise 1 - render");
 
   return (
     <>
